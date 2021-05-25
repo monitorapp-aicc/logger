@@ -5,7 +5,7 @@ package main
 import (
 	"log"
 
-	"github.com/leez012/logger"
+	"github.com/monitorapp-aicc/logger"
 )
 
 func main() {
